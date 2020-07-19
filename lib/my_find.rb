@@ -7,4 +7,4 @@ def my_find(collection)
     i += 1
   end
 end
-puts 2 % 5
+puts 4 % 5
